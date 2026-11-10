@@ -1,5 +1,27 @@
 # @osdk/generator
 
+## 2.88.0
+
+### Patch Changes
+
+- Updated dependencies [eb1fc8f]
+  - @osdk/api@2.88.0
+  - @osdk/generator-converters@2.88.0
+
+## 2.87.0
+
+### Minor Changes
+
+- 8300415: Add generated argument types for agent session creation.
+
+### Patch Changes
+
+- Updated dependencies [093d27c]
+- Updated dependencies [ff00439]
+- Updated dependencies [8300415]
+  - @osdk/api@2.87.0
+  - @osdk/generator-converters@2.87.0
+
 ## 2.86.0
 
 ### Minor Changes

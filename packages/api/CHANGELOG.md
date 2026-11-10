@@ -1,5 +1,19 @@
 # @osdk/api
 
+## 2.88.0
+
+### Minor Changes
+
+- eb1fc8f: Add experimental support for reading agent session state.
+
+## 2.87.0
+
+### Minor Changes
+
+- 093d27c: Add experimental support for sending events to agent sessions.
+- ff00439: Adding support for phonetic search
+- 8300415: Add generated argument types for agent session creation.
+
 ## 2.86.0
 
 ### Minor Changes

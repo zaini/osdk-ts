@@ -1,5 +1,20 @@
 # @osdk/cli.cmd.typescript
 
+## 0.116.0
+
+### Patch Changes
+
+- @osdk/generator@2.88.0
+- @osdk/cli.common@0.116.0
+
+## 0.115.0
+
+### Patch Changes
+
+- Updated dependencies [8300415]
+  - @osdk/generator@2.87.0
+  - @osdk/cli.common@0.115.0
+
 ## 0.114.0
 
 ### Minor Changes
