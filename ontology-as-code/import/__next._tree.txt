@@ -1,0 +1,7 @@
+:HL["/osdk-ts/_next/static/media/e91e1ff17da97c42-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/osdk-ts/_next/static/media/f5cb94a89b585f0b.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/osdk-ts/_next/static/css/c15d4462fd54e891.css","style"]
+3:[["children",{"s":"__PAGE__","h":160}]]
+2:[["children",{"s":{"n":"slug","t":"c","k":"ontology-as-code/import","s":["_not-found","_global-error","api","icon.svg","llms-full.txt","llms.mdx","llms.txt","og.png","og","sitemap.xml"]},"h":64,"c":"$Q3"}]]
+1:[["children",{"s":"(docs)","h":32,"c":"$Q2"}]]
+0:{"b":"8IVUFhTKGg4pVPwhVJfnD","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
